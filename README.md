@@ -1,2 +1,2 @@
-# uzop
-Introduction to Data Science course project
+# Introduction to Data Science course project
+
