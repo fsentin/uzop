@@ -24,10 +24,8 @@ S. Ara, A. Das and A. Dey, _Malignant and Benign Breast Cancer Classification us
 
 #### Acknowledgements
 
-Special thanks to...
+- Creators of the article: Sharmin Ara, Annesha Das, Ashim Dey
 
 - Creators of the dataset: Dr. William H. Wolberg, W. Nick Street, Olvi L. Mangasarian
-
-- Creators of the article: Sharmin Ara, Annesha Das, Ashim Dey
 
 - Project mentor: Eugen Vušak
